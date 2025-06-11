@@ -15,7 +15,7 @@ The EvalLLM 2025 challenge consists of two main tasks:
 
 
 ### 🤖 Models
-- [EvalLLM-GLiNER](https://huggingface.co/[your-username]/evalllm-gliner-biomed) - Fine-tuned GLiNER model
+- [EvalLLM-GLiNER](https://huggingface.co/ik-ram28/EvalLLM-GLiNER) - Fine-tuned GLiNER model
 - [NER-LLaMA-3.1-8B](https://huggingface.co/ik-ram28/NER-LLama-3.1-8B) - Fine-tuned LLaMA model
 
 ### 📝 Documentation
