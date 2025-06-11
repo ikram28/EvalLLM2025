@@ -12,7 +12,7 @@ The EvalLLM 2025 challenge consists of two main tasks:
 
 ### 📊 Datasets
 - [Synthetic Training Dataset](https://huggingface.co/datasets/ik-ram28/synthetic-NER-dataset) - Hugging Face Dataset
-- [Challenge Data](link-to-challenge) - Original EvalLLM 2025 data
+
 
 ### 🤖 Models
 - [EvalLLM-GLiNER](https://huggingface.co/[your-username]/evalllm-gliner-biomed) - Fine-tuned GLiNER model
