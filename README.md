@@ -19,7 +19,7 @@ The EvalLLM 2025 challenge consists of two main tasks:
 - [NER-LLaMA-3.1-8B](https://huggingface.co/ik-ram28/NER-LLama-3.1-8B) - Fine-tuned LLaMA model
 
 ### 📝 Documentation
-- [Paper](link-to-paper) - Detailed methodology and results
+- [Paper](https://arxiv.org/abs/2510.03577) - Detailed methodology and results
 
 
 ## 📄 Citation
@@ -27,18 +27,16 @@ The EvalLLM 2025 challenge consists of two main tasks:
 If you use this work, please cite:
 
 ```bibtex
-
+@misc{belmadani2025llmreportinginmedical,
+      title={LLM, Reporting In! Medical Information Extraction Across Prompting, Fine-tuning and Post-correction}, 
+      author={Ikram Belmadani and Parisa Nazari Hashemi and Thomas Sebbag and Benoit Favre and Guillaume Fortier and Solen Quiniou and Emmanuel Morin and Richard Dufour},
+      year={2025},
+      eprint={2510.03577},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2510.03577}, 
+}
 ```
-
-
-## 📞 Contact
-
-For questions about this work:
-- **GitHub Issues**: [Create an issue](https://github.com/ikram28/EvalLLM2025/issues)
-
-## 📜 License
-
-This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
